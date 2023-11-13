@@ -42,6 +42,12 @@ Let remove or delete one learner which is Zandile Shusha. She is removed or dele
 ![Screenshot (50)](https://github.com/LwandoMadebe/crud-application/assets/147529941/22de1df1-daf3-4bf4-9819-dcf3795787b9)
 
 ### Eighth Screenshot
-Let update the details of a learner which is Thalente Sithole and you 
+Let update the details of a learner which is Thalente Sithole and if can notice the email before was thale@gmail.com
 ![Screenshot (51)](https://github.com/LwandoMadebe/crud-application/assets/147529941/b6528660-a211-4ec6-addd-8fcac1494e6b)
+
+### Ninth
+Email has been updated to thale2@gmail.com
 ![Screenshot (52)](https://github.com/LwandoMadebe/crud-application/assets/147529941/ca2c5ada-37ed-4a78-b14f-40b9242081a4)
+
+## Author
+Lwando Madebe
