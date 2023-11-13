@@ -30,12 +30,15 @@ cannot be left empty.
 ![Screenshot (47)](https://github.com/LwandoMadebe/crud-application/assets/147529941/381667b2-3ad8-454e-bac6-62145407faba)
 
 ### Fifth Screenshot
-Now we added many learners we wanted so they will appear on the page
+Now we added many learners we wanted so they will appear on the page. Keep an eye on the name Zandile Shusha
 ![Screenshot (48)](https://github.com/LwandoMadebe/crud-application/assets/147529941/a78e171e-d2d5-4ff3-a282-91dbba349c88)
 
 ### Sixth Screenshot
-The database is also updated because the data is stored here.
+The database is also updated because the data is stored here. Keep an eye on the name Zandile Shusha
 ![Screenshot (49)](https://github.com/LwandoMadebe/crud-application/assets/147529941/e8c1bf33-73e3-4039-803c-74eb31ddf996)
+
+### Seventh Screenshot
+Let remove or delete one learner which is Zandile Shusha
 ![Screenshot (50)](https://github.com/LwandoMadebe/crud-application/assets/147529941/22de1df1-daf3-4bf4-9819-dcf3795787b9)
 ![Screenshot (51)](https://github.com/LwandoMadebe/crud-application/assets/147529941/b6528660-a211-4ec6-addd-8fcac1494e6b)
 ![Screenshot (52)](https://github.com/LwandoMadebe/crud-application/assets/147529941/ca2c5ada-37ed-4a78-b14f-40b9242081a4)
