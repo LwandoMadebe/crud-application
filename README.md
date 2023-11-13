@@ -25,11 +25,16 @@ Now let try to add new learners
 ![Screenshot (46)](https://github.com/LwandoMadebe/crud-application/assets/147529941/fba23318-3510-450c-81d1-3051772bff42)
 
 ### Fourth Screenshot
-Oops! All field are required, so for this message to pop up, I used JavaScript, this message means that all field must be filled and they 
+Oops! All fields are required, so for this message to pop up, I used JavaScript, this message means that all fields must be filled and they 
 cannot be left empty.
 ![Screenshot (47)](https://github.com/LwandoMadebe/crud-application/assets/147529941/381667b2-3ad8-454e-bac6-62145407faba)
 
+### Fifth Screenshot
+Now we added many learners we wanted so they will appear on the page
 ![Screenshot (48)](https://github.com/LwandoMadebe/crud-application/assets/147529941/a78e171e-d2d5-4ff3-a282-91dbba349c88)
+
+### Sixth Screenshot
+The database is also updated because the data is stored here.
 ![Screenshot (49)](https://github.com/LwandoMadebe/crud-application/assets/147529941/e8c1bf33-73e3-4039-803c-74eb31ddf996)
 ![Screenshot (50)](https://github.com/LwandoMadebe/crud-application/assets/147529941/22de1df1-daf3-4bf4-9819-dcf3795787b9)
 ![Screenshot (51)](https://github.com/LwandoMadebe/crud-application/assets/147529941/b6528660-a211-4ec6-addd-8fcac1494e6b)
