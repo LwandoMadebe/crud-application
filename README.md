@@ -3,12 +3,12 @@ PHP is a good langaunge for management system, for example, I used my learners c
 to edit their details and also be able to remove them and that is called CRUD APPLICATION. 
 
 ## Technologies that are used in this project
-1. PHP
-2. HTML
-3. MySQL
-4. JavaScript
-5. XAMPP
-6. Visual studio code
+<img src="https://github.com/LwandoMadebe/crud-application/assets/147529941/09aa97ec-c999-4440-ade9-7d310898cf55" width='65'>
+<img src="https://github.com/LwandoMadebe/crud-application/assets/147529941/d3fd6861-50d4-4258-a24b-772d6ab36e37" width='65'>
+<img src="https://github.com/LwandoMadebe/crud-application/assets/147529941/937c188b-2b88-4c85-8e15-2fc8aeb09f2d" width='65'>
+<img src="https://github.com/LwandoMadebe/crud-application/assets/147529941/9f8be959-2213-485b-9f10-ac863807c695" width='65'>
+<img src="https://github.com/LwandoMadebe/crud-application/assets/147529941/57774780-def2-43a8-9281-3cc24980cd69" width='65'>
+
 
 # Here are screenshots of my crud application
 ### First Screenshot
